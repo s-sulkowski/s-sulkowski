@@ -37,6 +37,7 @@ Student **Informatyki Medycznej** na Akademii Górniczo-Hutniczej w Krakowie ora
 
 ### 📌 Wybrane projekty
 - **[Rekrutacja-AI-Med-2026-2027](https://github.com/TWOJ-NICK/Rekrutacja-AI-Med-2026-2027)** – klasyfikacja zbiorów PenDigits (porównanie modeli ML) oraz BloodMNIST z wykorzystaniem sieci konwolucyjnych i wizualizacji Grad-CAM.
+- **[esp-czujnik-pulsu](https://github.com/s-sulkowski/esp-czujnik-pulsu)** – integracja czujnika MAX30102 do sprawdzania pulsu.
 ---
 
 ### 📫 Kontakt
